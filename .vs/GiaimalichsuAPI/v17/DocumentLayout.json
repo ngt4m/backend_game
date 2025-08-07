@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\project\\GiaimalichsuAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDE4E8-AE1D-45EC-8B77-B59964A1516D}|GiaimalichsuAPI.csproj|e:\\project\\giaimalichsuapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EDE4E8-AE1D-45EC-8B77-B59964A1516D}|GiaimalichsuAPI.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDE4E8-AE1D-45EC-8B77-B59964A1516D}|GiaimalichsuAPI.csproj|E:\\project\\GiaimalichsuAPI\\controllers\\contestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EDE4E8-AE1D-45EC-8B77-B59964A1516D}|GiaimalichsuAPI.csproj|solutionrelative:controllers\\contestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDE4E8-AE1D-45EC-8B77-B59964A1516D}|GiaimalichsuAPI.csproj|E:\\project\\GiaimalichsuAPI\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15EDE4E8-AE1D-45EC-8B77-B59964A1516D}|GiaimalichsuAPI.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDE4E8-AE1D-45EC-8B77-B59964A1516D}|GiaimalichsuAPI.csproj|E:\\project\\GiaimalichsuAPI\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EDE4E8-AE1D-45EC-8B77-B59964A1516D}|GiaimalichsuAPI.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\project\\GiaimalichsuAPI\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "E:\\project\\GiaimalichsuAPI\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T10:28:59.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContestController.cs",
+              "DocumentMoniker": "E:\\project\\GiaimalichsuAPI\\Controllers\\ContestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContestController.cs",
+              "ToolTip": "E:\\project\\GiaimalichsuAPI\\Controllers\\ContestController.cs",
+              "RelativeToolTip": "Controllers\\ContestController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:21:32.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\project\\GiaimalichsuAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\project\\GiaimalichsuAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:13:24.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\project\\GiaimalichsuAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "E:\\project\\GiaimalichsuAPI\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:12:59.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
